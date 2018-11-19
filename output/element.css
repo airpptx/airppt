@@ -1,0 +1,90 @@
+#Rectangle4.shape {
+    width: 1280px;
+    height: 107.58624671916012px;
+    background: #4472C4;
+    display: table;
+}
+
+#Rectangle4.position {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+#TextBox6.shape {
+    width: 529.6552230971129px;
+    height: 38.77501312335958px;
+    background: ##00FFFFF;
+}
+
+#Rectangle9.shape {
+    width: 529.6552230971129px;
+    height: 107.58624671916012px;
+    background: transparent;
+    display: table;
+}
+
+#Rectangle9 .font {
+    font-size: 54px;
+    font-family: "Arial", Times, serif;
+    color: #000000;
+    text-align: left;
+    vertical-align: middle;
+    display: table-cell;
+}
+
+#Rectangle9.position {
+    position: absolute;
+    top: 183.72419947506563px;
+    left: 354.20682414698166px;
+}
+
+#Rectangle11.shape {
+    width: 142.28577427821523px;
+    height: 54.85711286089239px;
+    background: #5B9BD5;
+    display: table;
+}
+
+#Rectangle11 .font {
+    font-size: 12px;
+    font-family: "Helvetica", Times, serif;
+    color: #FF0000;
+    text-align: center;
+    vertical-align: middle;
+    display: table-cell;
+}
+
+#Rectangle11.border {
+    border-style: solid;
+    border-color: 000000;
+    border-width: 0.10498687664041995px;
+}
+
+#Rectangle11.position {
+    position: absolute;
+    top: 25.714330708661418px;
+    left: 18.85711286089239px;
+}
+
+#Rectangle12.shape {
+    width: 142.28577427821523px;
+    height: 54.85711286089239px;
+    background: #5B9BD5;
+    display: table;
+}
+
+#Rectangle12 .font {
+    font-size: 12px;
+    font-family: "Helvetica", Times, serif;
+    color: #000000;
+    text-align: center;
+    vertical-align: middle;
+    display: table-cell;
+}
+
+#Rectangle12.position {
+    position: absolute;
+    top: 25.714330708661418px;
+    left: 180px;
+}
