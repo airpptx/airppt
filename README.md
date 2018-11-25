@@ -8,17 +8,13 @@ I'd also love for you to contribute. New to open source? I'm happy to walkthroug
 
 # Airppt CLI
 
-Utilize the Airppt CLI to work with Powerpoint files anywhere and not touch a line of code. Just pass in your filepath and the slide number, by default, and 'output' directory will be created.
-
-I still need to configure it as an npm package for CLI work.
+Utilize the Airppt CLI to work with Powerpoint files anywhere and not touch a line of code. Just pass in your filepath and the slide number, by default, an 'output' directory will be created.
 
 ## Usage
 
-Point to the powerpoint, and say the slide number. Watch the magic unravel in the output folder.
+```
+npm install -g airppt
+airppt -i ./sample.pptx --slide 1 -o ./mypage
+```
 
-```
-git clone <this repo>
-npm run build
-cd js
-node main.js -i "/Users/raviteja_lingineni/Documents/Projects/airppt-all/samples/apps.pptx" -s 7
-```
+Open an issue if something doesn't work. Not all Powerpoint Elements are supported, but keep checking the [list](#) for updates.

@@ -1,6 +1,6 @@
 {
 	"name": "airppt",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"description": "CLI that converts Powerpoint (PPTX) to clean HTML/CSS using the Airppt Libraries",
 	"main": "main.js",
 	"scripts": {
@@ -17,6 +17,9 @@
 	},
 	"devDependencies": {
 		"typescript": "^2.9.2"
+	},
+	"bin": {
+		"airppt": "./js/main.js"
 	},
 	"author": "Raviteja Lingineni",
 	"license": "MIT"
