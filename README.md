@@ -17,4 +17,4 @@ npm install -g airppt
 airppt -i ./sample.pptx --slide 1 -o ./mypage
 ```
 
-Open an issue if something doesn't work. Not all Powerpoint Elements are supported, but keep checking the [list](#) for updates.
+Open an issue if something doesn't work. Not all Powerpoint Elements are supported, but keep checking the [list](https://airpptx.github.io/docs.html#limitations) for updates.
